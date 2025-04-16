@@ -29,7 +29,7 @@ const Crypto = require('crypto')
 const path = require('path')
 const prefix = config.PREFIX
 
-const ownerNumber = ['94769091078']
+const ownerNumber = ['94711767300']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/session/creds.json')) {
@@ -49,7 +49,7 @@ const port = process.env.PORT || 9090;
 //=============================================
 
 async function connectToWA() {
-console.log("COMETHING NIMA-MD 🎭...");
+console.log("COMETHING FIXO-XMD 🎭...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/session/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -77,15 +77,15 @@ require("./plugins/" + plugin);
 }
 });
 console.log('𝙿𝙻𝚄𝙶𝙸𝙽𝚂 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽𝚂𝚃𝙰𝙻𝙻 𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 ✅')
-console.log('NIMA-MD DIPLOY SUCCESSFUL TO ENJOY 𝚃𝙾 ✅')
+console.log('FIXO-XMD DIPLOY SUCCESSFUL TO ENJOY 𝚃𝙾 ✅')
 
 let up = ` ʙᴏᴛ⇨⇨ Connected Successfully!!!!!!* ✅ 
 
- WELCOME TO NIMA-MD
+ WELCOME TO FIXO-XMD
 
 *🔹 ᴘʀᴇғɪx:* *${prefix}*
 
-*🔹 ᴏᴡɴᴇʀ:* 94769091078
+*🔹 ᴏᴡɴᴇʀ:* 94711767300
 
 *🖇️Join My WhatsApp Channels✓💗* 
 
@@ -97,7 +97,7 @@ let up = ` ʙᴏᴛ⇨⇨ Connected Successfully!!!!!!* ✅
 
  - : ᴜɴᴅᴇꜰɪɴᴇᴅ
 
-> *POWERED BY LOKU NIMAH🤹‍♂️ ʙᴇᴛᴀ ꜱᴇʀᴠɪᴄᴇ*`;
+> *POWERED BY REAL FIXO🤹‍♂️ ʙᴇᴛᴀ ꜱᴇʀᴠɪᴄᴇ*`;
 conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/zqoycp.jpg` }, caption: up })
 
 }
