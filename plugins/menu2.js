@@ -43,13 +43,13 @@ let madeMenu = `*╭─────────────────❒⁠⁠
 *┕─────────────────❒*
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━
-   *WELCOME TO NIMA-MD FULL COMMAND LIST👇*
+   *WELCOME TO FIXO-XMD FULL COMMAND LIST👇*
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-*CREATED BY LOKU NIMA👨🏻‍💻*
+*CREATED BY REAL FIXO👨🏻‍💻*
 
 *╭───────────────❒⁠⁠⁠⁠*
-*│* *_https://github.com/Lokunima2001/LOKU-NIMA-MD-GIT_*
+*│* *_https://github.com/fixoxd/FIXO-XMD*
 *┕───────────────❒*
 
 *╭───────────────❒⁠⁠⁠⁠*
@@ -100,7 +100,7 @@ ${menu.search}
 
 *❒⁠⁠⁠⁠▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭❒*⁠⁠⁠⁠
 
-> *POWERED BY LOKU NIMAH🇱🇰*
+> *POWERED BY FIXO XMD 🇱🇰*
 
 ╰━❁ ═══ ❃•⇆•❃ ═══ ❁━╯
 `
