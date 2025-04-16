@@ -1,7 +1,7 @@
 {
-  "name": "NIMA-MD",
-  "description": "THE BEST WHATSAPP BOT NIMA-MD",
-  "logo": "https://files.catbox.moe/zqoycp.jpg",
+  "name": "FIXO-XMD",
+  "description": "THE BEST WHATSAPP BOT FIXO-XMD",
+  "logo": "https://files.catbox.moe/896xn9.jpg",
   "keywords": ["bot"],
   "success_url": "https://github.com/Lokunima2001/LOKU-NIMA-MD-GIT",
 
@@ -16,13 +16,13 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://files.catbox.moe/zqoycp.jpg"
+      "value": "https://files.catbox.moe/896xn9.jpg"
     }, 
     
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "NIMA-MD IS ALIVE♻🔗\n\n© MADE BY LOKU NIMA"
+      "value": "FIXO-XMD IS ALIVE♻🔗\n\n© MADE BY REAL FIXO"
     },
     
     "PREFIX": {
