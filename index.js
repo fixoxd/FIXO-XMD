@@ -95,10 +95,10 @@ let up = ` ʙᴏᴛ⇨⇨ Connected Successfully!!!!!!* ✅
 
 *🖇️Subscribe My Youtube Channel✓💗*
 
- - : ᴜɴᴅᴇꜰɪɴᴇᴅ
+ - : https://www.youtube.com/@FIXO_EDITz
 
 > *POWERED BY REAL FIXO🤹‍♂️ ʙᴇᴛᴀ ꜱᴇʀᴠɪᴄᴇ*`;
-conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/zqoycp.jpg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/896xn9.jpg` }, caption: up })
 
 }
 })
