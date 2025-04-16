@@ -16,7 +16,7 @@ const { cmd } = require("../command");
 const moment = require("moment");
 
 let botStartTime = Date.now(); // Enregistrement de l'heure de démarrage du bot
-const ALIVE_IMG = "https://files.catbox.moe/zqoycp.jpg"; // Assurez-vous que cette URL est valide
+const ALIVE_IMG = "https://files.catbox.moe/896xn9.jpg"; // Assurez-vous que cette URL est valide
 
 cmd({
     pattern: "alive",
@@ -36,13 +36,13 @@ cmd({
         const runtimeHours = Math.floor(runtimeMilliseconds / (1000 * 60 * 60));
 
         const formattedInfo = `
-♻️ *NIMA MD V1 STATUS* ♻️
+♻️ *FIXO XMD V1 STATUS* ♻️
 Hi 🫵🏽 ${pushname}
 🕒 *Time*: ${currentTime}
 📅 *Date*: ${currentDate}
 ⏳ *Uptime*: ${runtimeHours} hours, ${runtimeMinutes} minutes, ${runtimeSeconds} seconds
 
-🤖 *Status*: *Nima is Alive and Ready!*
+🤖 *Status*: *fixo is Alive and Ready!*
 
 🎉 *Enjoy the Service!*
         `.trim();
@@ -62,7 +62,7 @@ Hi 🫵🏽 ${pushname}
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363614256474114@newsletter',
-                    newsletterName: '𝗡𝗜𝗠𝗔 𝗔𝗟𝗜𝗩𝗘',
+                    newsletterName: '𝗙𝗜𝗫𝗢 𝗔𝗟𝗜𝗩𝗘',
                     serverMessageId: 143
                 }
             }
@@ -79,7 +79,7 @@ Hi 🫵🏽 ${pushname}
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363416256474114@newsletter',
-                    newsletterName: '𝗡𝗜𝗠𝗔 𝗔𝗟𝗜𝗩𝗘',
+                    newsletterName: '𝗙𝗜𝗫𝗢 𝗔𝗟𝗜𝗩𝗘',
                     serverMessageId: 143
                 }
             }
